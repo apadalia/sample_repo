@@ -1,0 +1,5 @@
+1. On the Homepage, click + icon on the right.
+2. Fill the repository details.
+   Repository Name, Description, Public/Private
+3. Check the checkbox to initialize Repository with the readme file.
+4. Click on Create repository.
